@@ -2,8 +2,7 @@
 ## Подборка полезных материалов по теме IT.
 
 ### Обучение языкам программирования:
-[Плейлист хороших видеоуроков по C#](https://www.youtube.com/playlist?list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N)
-<br> Плейлист объёмный, что может оттолкнуть, но посмотрев даже около 30 видеоуроков за месяц (выделить пару вечеров в неделю), можно получить неплохую базу, для того чтобы увереннее двигаться дальше.
+[Плейлист видеоуроков по C#](https://www.youtube.com/playlist?list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N)
 
 [Курс по C++](https://education.yandex.ru/handbook/cpp)
 
