@@ -14,8 +14,8 @@
 ### Прочие полезности:
 [Составление резюме для программиста](https://habr.com/ru/companies/netologyru/articles/726812)
 
-[Git для новичков. (часть 1)](https://habr.com/ru/articles/541258/)
+[Git для новичков (часть 1).](https://habr.com/ru/articles/541258/)
 
-[Git для новичков. (часть 2)](https://habr.com/ru/articles/542616/)
+[Git для новичков (часть 2).](https://habr.com/ru/articles/542616/)
 
-[Интерактиваня игра по обучению Git.](https://learngitbranching.js.org)
+[Интерактивная игра по обучению Git.](https://learngitbranching.js.org)
